@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Its mohammad git profile who loving developing
+#### Its Mohammad git profile who loves developing.
 
 
 <!--
