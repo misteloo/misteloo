@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### Its Mohammad git profile who loves developing.
-
+#### Its Mohammad git profile who loves coding.
+I’m currently working on FLUTTER
 
 <!--
 **misteloo/misteloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
